@@ -1,10 +1,4 @@
 ---
-title: "HelloWorld"
-author: "prafulla"
-date: "20/07/2020"
-output:
-  word_document: default
-  html_document: default
+Title HelloWorld
 ---
-
 ## This is a markdown file

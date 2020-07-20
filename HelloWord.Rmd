@@ -1,4 +1,5 @@
 ---
-Title HelloWorld
+title: "HelloWorld"
+author: "prafulla"
 ---
 ## This is a markdown file
